@@ -1,7 +1,7 @@
 # ReadMe
 The repository included the necessary scrip used for the analysis of 01-project 
 
-## The atacCommond.sh used to analysis the ATAC-seq data  
+## The `atacCommond.sh` used to analysis the ATAC-seq data  
 Just used to practics
  
 ***
